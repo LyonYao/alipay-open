@@ -1,1 +1,2 @@
-# alipay-open
+# Alipay Open
+Simple demo for alipay open platform.
